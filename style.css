@@ -167,7 +167,7 @@ html {
  /* Start Landing Page */
  .landing-page {
    min-height: 100vh;
-   background-image: url('../imgs/01.jpg');
+   background-image: url(office-4628592_1280.jpg);
    background-size: cover;
    position: relative;
  }
@@ -193,8 +193,11 @@ html {
  }
  .header-area .logo {
    width: 300px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
    padding: 15px;
+   font-size: 40px;
    font-weight: bold;
+   font-weight: 700;
  }
  .header-area .links-container {
    width: 100%;
